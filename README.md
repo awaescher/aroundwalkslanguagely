@@ -4,3 +4,4 @@
 * **One wall free!** *einwandfrei*
 * **But hello!** *Aber hallo!*
 * **Yes now greet god!** *Ja jetzt grüß' Gott!*
+* **Even so** *Ebenso*
