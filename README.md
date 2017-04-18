@@ -5,3 +5,5 @@
 * **But hello!** *Aber hallo!*
 * **Yes now greet god!** *Ja jetzt grüß' Gott!*
 * **Even so** *Ebenso*
+* **Have a good one!** *Einen Guten (Appetit)*
+* **Let it taste you** *Lass es dir schmecken*
