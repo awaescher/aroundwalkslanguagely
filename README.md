@@ -1,2 +1,6 @@
-# aroundwalkslinguistic
-A terrible set of untranslatable translations of colloquial german/swabian sayings.
+# aroundwalkslinguistic : Umgangssprachlich
+
+ * Pulls like pig : Zieht wie Sau
+ * One wall free! : einwandfrei
+ * But hello! : Aber hallo!
+ * Yes now greet god! : Ja jetzt grüß' Gott!
