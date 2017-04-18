@@ -11,7 +11,7 @@
 ### Übersetzungen
 |EN|DE|
 |-|-|
-|**Have a good one!**|Einen Guten (Appetit)|
+|**A good one!**|Einen Guten (Appetit)|
 |**Let it taste you**|Lass es dir schmecken|
 |**Yes now greet god!**|Ja jetzt grüß' Gott!|
 |**Pulls like pig**|Zieht wie Sau|
