@@ -21,4 +21,8 @@
 |**There gets yes the dog in the pan crazy**|Da wird ja der Hund in der Pfanne verrückt|
 |**There fries me once somebody a stork**|Da brat mir mal einer einen Storch|
 |**It walks me icecold the back down**|Es läuft mir eiskalt den Rücken runter|
-|**Grass wiener dog**|Grasdackel (schwäbisch)|
+|**Grass wiener dog**|Grasdackel 👿|
+|**Hedgeberriesfarmer**|Heckenbeerlesbauer 👿|
+
+### Glossar
+👿 Schimpfwort
