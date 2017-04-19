@@ -22,7 +22,7 @@
 |**There fries me once somebody a stork**|Da brat mir mal einer einen Storch|
 |**It walks me icecold the back down**|Es läuft mir eiskalt den Rücken runter|
 |**Grass wiener dog**|Grasdackel 👿|
-|**Hedgeberriesfarmer**|Heckenbeerlesbauer 👿|
+|**Hedge berries farmer**|Heckenbeerlesbauer 👿|
 
 ### Glossar
 👿 Schimpfwort
