@@ -23,6 +23,8 @@
 |**It walks me icecold the back down**|Es läuft mir eiskalt den Rücken runter|
 |**Grass wiener dog**|Grasdackel 👿|
 |**Hedge berries farmer**|Heckenbeerlesbauer 👿|
+|**Shit the wall on**|Sche!#$+ die Wand an 👿|
+|**If you think you can bind me a bear on you're on the woodway**|Wenn du denkst du könntest mir einen Bären aufbinden, bist du auf dem Holzweg|
 
 ### Glossar
 👿 Schimpfwort
