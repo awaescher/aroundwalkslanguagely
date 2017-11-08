@@ -26,6 +26,7 @@
 |**Shit the wall on**|Sche!#$+ die Wand an 👿|
 |**If you think you can bind me a bear on you're on the woodway**|Wenn du denkst du könntest mir einen Bären aufbinden, bist du auf dem Holzweg|
 |**You have here nothing to search**|Du hast hier nichts zu suchen|
+|**Cow paunch night**|Eine sehr düstere Nacht (schwäbisch: "Kuahranzanacht")|
 
 ### Glossar
 👿 Schimpfwort
